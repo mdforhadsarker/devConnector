@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://forhad123:forhad123@devconnector-begki.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
