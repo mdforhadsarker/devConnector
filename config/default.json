@@ -1,4 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://forhad123:forhad123@devconnector-begki.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+  "mongoURI": "mongodb+srv://forhad123:forhad123@devconnector-begki.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "ff6ed1c54f94b888224a",
+  "githubSecret": "3632a3b39f918814ccca9e8071c2f084d1d680a3"
 }
